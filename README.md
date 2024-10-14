@@ -7,6 +7,8 @@
 
 # Cleaned data 🔍
 <img width="905" alt="{9673AB45-F7A6-41FB-919E-3DB8A0C902FA}" src="https://github.com/user-attachments/assets/cc501722-e451-473e-8957-a5565460aefc">
+<img width="891" alt="{23E294C5-C7BF-4D57-A041-748E6F2D9E9A}" src="https://github.com/user-attachments/assets/a6f9af28-9aec-478d-b358-9ba6c919b37c">
+
 
 
 
