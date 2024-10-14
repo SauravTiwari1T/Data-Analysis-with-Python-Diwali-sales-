@@ -1,7 +1,8 @@
 # Data-Analysis-with-Python-Diwali-sales-
 
 # Row data 📄
-<img width="894" alt="{4FC1510A-48E0-47C3-B15A-5E3E48FD4106}" src="https://github.com/user-attachments/assets/c6f59d45-1c5c-48f8-bc7a-8d65d4cc6d1d">
+<img width="905" alt="{D495E068-AB58-4425-8FA1-7CC78965976F}" src="https://github.com/user-attachments/assets/8365cbba-56fe-4c3d-8b81-1809396e2c9a">
+
 
 
 
